@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Navigation Drawer</string>
+
+    <string name="nav_home">Trang chủ</string>
+    <string name="nav_menus">Thực đơn</string>
+    <string name="nav_employee">Nhân viên</string>
+    <string name="nav_chart">Thống kê</string>
+    <string name="nav_settings">Cài đặt</string>
+
+    <string name="item_edit">Sửa</string>
+    <string name="item_delete">Xoá</string>
+
+    <string name="toast_add_new">Thêm món ăn mới</string>
+
+</resources>
